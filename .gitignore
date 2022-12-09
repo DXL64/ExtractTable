@@ -1,0 +1,5 @@
+Weight/*.pth
+
+__pycache__/
+
+Dependencies/
